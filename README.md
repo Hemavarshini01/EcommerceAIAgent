@@ -99,7 +99,6 @@ If your SQL result includes fields `date` and `total_sales`, the API automatical
 - **merge_to_sql.py**: Merges your CSVs into the database.
 - **requirements.txt**: Python dependencies.
 - **README.md**: Project instructions.
-- **.env**: _(Optional)_ For environment variables.
 - **ollama**: _(Optional label/folder for local Ollama config)_
 
 ---
